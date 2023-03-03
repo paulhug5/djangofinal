@@ -6,5 +6,7 @@ first commit
 
 ----------------everything below this line is just tracking what i have done---------------------------------------------------------
 
--created project
 -updated README.md
+
+
+-created venv, installed django, started project play2learn
